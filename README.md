@@ -29,10 +29,8 @@ If the device is on:
 1. release the left button and continue holding the right button
 1. the device will begin flashing rapidly and then pulse slowly
 
-Exiting Bootloader mode:
-Currently, there is no mechanical exit from bootloader mode.  Drag and drop firmware onto the device and it will restart.
-
-
+## Exiting Bootloader mode Manually
+If you accidentally enter bootloader mode hold down **both buttons** for approximately **15-20 seconds** and the Meshtastic app will start.
 
 ## Factory Reset
 Typically there is no reason to factory reset the device.
